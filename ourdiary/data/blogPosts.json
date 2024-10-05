@@ -1,0 +1,100 @@
+[
+  {
+    "id": "first-blog",
+    "slug": "first-blog",
+    "title": "Getting Started with Next.js",
+    "excerpt": "Learn the basics of Next.js and start building amazing web applications.",
+    "body": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "text": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications..."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "images": [
+          {
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.webp",
+            "alt": "Alt 1",
+            "caption": "Caption 1"
+          },
+          {
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "alt": "Alt 2",
+            "caption": "Caption 2"
+          },
+          {
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "alt": "Alt 3",
+            "caption": "Caption 3"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "text": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications..."
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "videos": [
+          {
+            "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "caption": "Caption 1"
+          },
+          {
+            "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "caption": "Caption 2"
+          },
+          {
+            "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "caption": "Caption 3"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "text": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications..."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "text": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications..."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "text": "Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications..."
+          }
+        ]
+      }
+    ],
+    "coverImage": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+    "date": "2023-04-01",
+    "author": {
+      "name": "Sayantan",
+      "avatar": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web"
+    },
+    "categories": ["Travel"],
+    "readingTime": 5,
+    "createdAt": "2023-04-01",
+    "featured": true
+  }
+]
