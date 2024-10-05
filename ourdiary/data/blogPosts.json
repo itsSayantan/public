@@ -17,17 +17,17 @@
         "type": "image",
         "images": [
           {
-            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.webp",
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "alt": "Alt 1",
             "caption": "Caption 1"
           },
           {
-            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "alt": "Alt 2",
             "caption": "Caption 2"
           },
           {
-            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "src": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "alt": "Alt 3",
             "caption": "Caption 3"
           }
@@ -46,17 +46,17 @@
         "videos": [
           {
             "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "caption": "Caption 1"
           },
           {
             "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "caption": "Caption 2"
           },
           {
             "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+            "poster": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
             "caption": "Caption 3"
           }
         ]
@@ -86,11 +86,11 @@
         ]
       }
     ],
-    "coverImage": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web",
+    "coverImage": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp",
     "date": "2023-04-01",
     "author": {
       "name": "Sayantan",
-      "avatar": "https://cdn.jsdelivr.net/gh/itsSayantan/public/outdir/coverimage.web"
+      "avatar": "https://cdn.jsdelivr.net/gh/itsSayantan/public/ourdiary/coverimage.webp"
     },
     "categories": ["Travel"],
     "readingTime": 5,
